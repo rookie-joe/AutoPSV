@@ -108,7 +108,7 @@ If you find this work useful in your research, please cite our paper:
 ```bibtex
 @inproceedings{lu2024autopsv,
   title={AutoPSV: Automated Process-Supervised Verifier},
-  author={Lu, Jianqiao and Dou, Zhiyang and Wang, Hongru and Cao, Zeyu and Dai, Jianbo and Wan, Yingjia and Huang, Yinya and Guo, Zhijiang},
+  author={Lu, Jianqiao and Dou, Zhiyang and Wang, Hongru and Cao, Zeyu and Dai, Jianbo and Wan, Yingjia and Guo, Zhijiang},
   booktitle={Advances in Neural Information Processing Systems},
   year={2024}
 }
